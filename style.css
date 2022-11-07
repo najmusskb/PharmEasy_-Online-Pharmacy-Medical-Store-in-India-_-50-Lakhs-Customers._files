@@ -1,0 +1,16 @@
+.header{
+    border-bottom: 1px solid black;
+}
+.vl {
+    border-left: 1px solid  green;
+    height: 40px;
+  }
+  .app{
+    background-color: #EEF4FF;
+    padding: 7px;
+    border-radius: 5px;
+  }
+  .sidenav{
+    font-size: 16px;
+    color: #30363C;
+  }
